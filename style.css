@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #d1d4e0;
+  background-color: #cdd0f4;
   font-family: "Poppins", sans-serif;
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .left-side {
-  background-color: #1c2733;
+  background-color: #212832;
   width: 25rem;
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .contact-detail {
-  color: #3990b2;
+  color: #969de8;
   padding: 5px;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 .year {
-  color: #3990b2;
+  color: #969de8;
   padding: 2px;
 }
 
@@ -141,13 +141,13 @@ body {
   top: 0;
   left: 0;
   height: 100%;
-  background: #3990b2;
+  background: #969de8;
 }
 
 .profile-header,
 .skills-header,
 .project-header {
-  color: #1c2733;
+  color: #212832;
   text-transform: uppercase;
   padding: 1rem;
 }
@@ -159,8 +159,9 @@ body {
 }
 
 .skills-container ul {
-  width: 30rem;
+  width: 100%;
   margin-bottom: 1rem;
+  padding-right: 1rem;
 }
 
 .skills-container ul li {
@@ -186,5 +187,6 @@ body {
 
   .skills-container ul {
     width: 100%;
+    padding-right: 1rem;
   }
 }
