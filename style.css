@@ -58,9 +58,13 @@ body {
   border-bottom: 1px solid #aeaeae;
 }
 
+.contact {
+  margin-top: 2.5rem;
+}
+
 .contact,
 .education {
-  margin-left: 4rem;
+  margin-left: 2rem;
   padding-bottom: 7px;
 }
 
@@ -93,7 +97,7 @@ body {
 
 .edu-header,
 .language-header {
-  margin-left: 4rem;
+  margin-left: 2rem;
   margin-top: 2rem;
   letter-spacing: 2px;
 }
@@ -117,7 +121,7 @@ body {
 
 .languages ul {
   width: 18rem;
-  margin-left: 4rem;
+  margin-left: 2rem;
   padding-bottom: 1rem;
 }
 
