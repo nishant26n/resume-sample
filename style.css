@@ -191,4 +191,21 @@ body {
     width: 100%;
     padding-right: 1rem;
   }
+
+  .languages ul {
+    width: 93%;
+    padding-right: 1rem;
+  }
+
+  .contact {
+    margin-top: 3rem;
+  }
+
+  .contact,
+  .education,
+  .edu-header,
+  .language-header,
+  .languages ul {
+    margin-left: 2rem;
+  }
 }
